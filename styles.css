@@ -48,12 +48,14 @@ p {
   position: relative;
   left: 30%;
   width: 150px;
+  max-width: 20%;
 }
 
 #cloud_bottom {
   position: relative;
   right: 30%;
   width: 150px;
+  max-width: 20%;
 }
 
 #introduction {
