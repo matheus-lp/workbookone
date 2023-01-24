@@ -6,7 +6,9 @@ body {
 }
 
 p {
+  display: inline-block;
   text-align: center;
+  max-width: 90%;
   color: #45b29a;
   padding: 1em 0;
   font-size: 180%;
