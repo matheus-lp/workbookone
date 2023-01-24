@@ -48,6 +48,7 @@ p {
 
 #cloud_top {
   position: relative;
+  top: 30%;
   left: 30%;
   width: 150px;
   max-width: 20%;
